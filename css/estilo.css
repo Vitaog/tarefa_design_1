@@ -11,3 +11,7 @@ margin: 0;
     margin-right: auto; 
     text-align: center;
 }
+a{
+    color: red;
+    text-decoration: none;
+}
